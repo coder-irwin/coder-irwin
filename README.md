@@ -2,7 +2,7 @@
 
 ### 🤖 AI & Automation Engineer | LLM Systems | RAG Applications | Community Builder
 
-<img align="right" alt="Coding" width="380" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg?1607096344">
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/code.gif">
 
 AI Engineer focused on building **intelligent systems using LLMs, RAG pipelines, and AI automation frameworks**.
 
