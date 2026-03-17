@@ -1,93 +1,120 @@
-# Hi there 👋, I’m Akaash Tripathee!
+# Hi there 👋, I’m Akaash Tripathee
 
-### Machine Learning Enthusiast | Community Builder | Problem Solver
+### 🤖 AI & Automation Engineer | LLM Systems | RAG Applications | Community Builder
 
-<img align="right" alt="Coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg?1607096344">
+<img align="right" alt="Coding" width="380" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg?1607096344">
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=coder-irwin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
-</p>
+AI Engineer focused on building **intelligent systems using LLMs, RAG pipelines, and AI automation frameworks**.
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=coder-irwin" alt="Trophies" />
-  </a> 
-</p>
+Currently working as a **Software Analyst (AI & Automation)** where I design **LLM-powered workflows, AI agents, and automation pipelines** using modern orchestration tools.
 
-<p align="left"> 
-  <a href="https://twitter.com/akaashtripathi" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/akaashtripathi?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a> 
-</p>
+I also lead one of the largest ML communities in Asia and actively contribute to the **global AI developer ecosystem**.
 
 ---
 
-## 🔭 Current Roles
-- **Software Engineer Intern (Automation Testing)** @ **Paytm**  
-  – Designed & documented test plans in JIRA/Confluence  
-  – Authored 80+ Selenium scripts, boosting build stability to 98%+  
-- **Community Lead** @ **TensorFlow User Group Ghaziabad**  
-  – Organized 20+ events (online & offline) for 8,000‑member community  
-  – Recognized among Google’s Top 10 ML Communities  
+## 🚀 Current Work
+
+### AI & Automation Engineer
+- Building **LLM pipelines & RAG applications**
+- Designing **AI agents and automation workflows**
+- Working with **n8n · Dify · Make.com · APIs**
+
+### Software Analyst — OnGraph
+- Developing **AI-driven automation systems**
+- Integrating **LLMs into production workflows**
+
+### Organizer — TensorFlow User Group Ghaziabad
+- **10,000+ developer community**
+- Organized **30+ AI/ML events**
+- Supported by **Google for Developers**
 
 ---
 
-## 🌱 Learning & Projects
-- **MERN Stack** & **Python GUI** (CSV→PDF converter)  
-- **Generative AI & Cloud** experiments (GCP · Azure)  
-- **Featured Projects:**  
-  - **Anomaly Detection (Industry 4.0)** — Turbine data insights with Azure Cognitive + Pandas  
-  - **LCM (Lowest‑Cost Medicine)** — Algorithm to fetch best medicine prices  
+## 🧠 AI & Engineering Expertise
+
+- **LLM Systems**
+- **Retrieval-Augmented Generation (RAG)**
+- **Prompt Engineering**
+- **AI Agents & Automation**
+- **API Integrations**
+- **LLM Pipelines**
+- **Workflow Automation**
 
 ---
 
-## 🏆 Highlights & Awards
-- ICPC Regionalist ’23–’24  
-- AWS ML Summer School ’23  
-- Most Impactful Community by Google for Developers ’24  
+## 🏆 Highlights
+
+- 🏅 **AWS Community Builder — AI Engineering (2026)**
+- 🌍 Invited to **Global AI Developer Summit — Bali**
+- 🎤 **Mentor — Guinness World Record AI Hackathon (Google Cloud)**
+- 🤖 **Organizer — TensorFlow User Group Ghaziabad**
+- 💼 **Former Software Engineer Intern — Paytm**
 
 ---
 
-## 💬 Ask Me About
-Python · C++ · Competitive Programming · Machine Learning · Quality Assurance · Community Building
+## 🧪 Featured Project
+
+### ⚡ NovaFlow — Autonomous AI QA Agent
+
+NovaFlow is an **AI-driven QA automation ecosystem** that converts **product requirements (PRDs) into executable UI test scripts** using LLMs.
+
+Key capabilities:
+- AI-driven test generation
+- Requirement → automation pipeline
+- Intelligent QA agents
+- Built for **Amazon Nova AI Hackathon**
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠 Tech Stack
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" /></a>
-  <a href="https://www.cprogramming.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" /></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" /></a>
-  <a href="https://www.selenium.dev" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" alt="Selenium" width="30" /></a>
-  <a href="https://www.docker.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="30" /></a>
-  <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="30" /></a>
-  <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="30" /></a>
-  <a href="https://azure.microsoft.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="30" /></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="30" /></a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="30" /></a>
-  <a href="https://git-scm.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" /></a>
-</p>
+### AI / LLM
+Python • LangChain • RAG • Prompt Engineering • LLM APIs
+
+### Automation
+n8n • Dify • Make.com • AI Agents
+
+### Cloud
+AWS • Google Cloud • Azure
+
+### Tools
+Git • Docker • APIs • Selenium • Jira • Confluence
 
 ---
 
-## 📫 Connect & Collaborate
+## 🌍 Community Work
+
+### TensorFlow User Group Ghaziabad
+
+- One of the **largest TensorFlow communities globally**
+- **10,000+ developers**
+- Organized **30+ AI/ML events**
+- Hosted workshops on **Gemini APIs, ML, AI systems, and cloud**
+
+---
+
+## 📫 Connect With Me
+
 <p>
-  <a href="mailto:tripathiakaash@gmail.com"><img src="https://img.shields.io/badge/Email-tripathiakaash@gmail.com-blue?style=flat-square&logo=gmail" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/akaash-t-bb9211212/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Akaash%20Tripathee-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://medium.com/@tripathiakaash" target="_blank"><img src="https://img.shields.io/badge/Medium-@tripathiakaash-black?style=flat-square&logo=medium" alt="Medium" /></a>
-  <a href="https://github.com/coder-irwin" target="_blank"><img src="https://img.shields.io/badge/GitHub-coder--irwin-gray?style=flat-square&logo=github" alt="GitHub" /></a>
+<a href="mailto:tripathiakaash@gmail.com"><img src="https://img.shields.io/badge/Email-tripathiakaash@gmail.com-blue?style=flat-square&logo=gmail"/></a>
+<a href="https://www.linkedin.com/in/akaash-t-bb9211212"><img src="https://img.shields.io/badge/LinkedIn-Akaash%20Tripathee-blue?style=flat-square&logo=linkedin"/></a>
+<a href="https://medium.com/@tripathiakaash"><img src="https://img.shields.io/badge/Medium-@tripathiakaash-black?style=flat-square&logo=medium"/></a>
+<a href="https://github.com/coder-irwin"><img src="https://img.shields.io/badge/GitHub-coder--irwin-gray?style=flat-square&logo=github"/></a>
 </p>
-
-> Want to collaborate on an event or project?  
-> 📬 **Mail me:** tripathiakaash@gmail.com
 
 ---
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coder-irwin&show_icons=true&theme=transparent" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=coder-irwin&show_icons=true&theme=transparent"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-irwin&theme=default" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-irwin"/>
 </p>
+
+---
+
+💡 **Mission:**  
+Building **AI systems that combine LLMs, automation, and real-world workflows**, while growing developer communities around AI.
