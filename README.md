@@ -1,120 +1,165 @@
 # Hi there 👋, I’m Akaash Tripathee
 
-### 🤖 AI & Automation Engineer | LLM Systems | RAG Applications | Community Builder
+## 🚀 AI Engineer | GenAI Systems | RAG | AI Agents | Community Builder
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/code.gif">
 
-AI Engineer focused on building **intelligent systems using LLMs, RAG pipelines, and AI automation frameworks**.
+I build **production-ready AI systems** powered by **LLMs, Retrieval-Augmented Generation (RAG), AI Agents, and Workflow Automation**.
 
-Currently working as a **Software Analyst (AI & Automation)** where I design **LLM-powered workflows, AI agents, and automation pipelines** using modern orchestration tools.
+Currently working as a **Software Analyst at OnGraph Technologies**, where I design and deploy intelligent AI solutions that automate real-world business operations.
 
-I also lead one of the largest ML communities in Asia and actively contribute to the **global AI developer ecosystem**.
-
----
-
-## 🚀 Current Work
-
-### AI & Automation Engineer
-- Building **LLM pipelines & RAG applications**
-- Designing **AI agents and automation workflows**
-- Working with **n8n · Dify · Make.com · APIs**
-
-### Software Analyst — OnGraph
-- Developing **AI-driven automation systems**
-- Integrating **LLMs into production workflows**
-
-### Organizer — TensorFlow User Group Ghaziabad
-- **10,000+ developer community**
-- Organized **30+ AI/ML events**
-- Supported by **Google for Developers**
+I’m also the organizer of **TensorFlow User Group Ghaziabad**, one of the fastest-growing AI developer communities, supported by **Google for Developers**.
 
 ---
 
-## 🧠 AI & Engineering Expertise
+# 🔥 About Me
 
-- **LLM Systems**
-- **Retrieval-Augmented Generation (RAG)**
-- **Prompt Engineering**
-- **AI Agents & Automation**
-- **API Integrations**
-- **LLM Pipelines**
-- **Workflow Automation**
-
----
-
-## 🏆 Highlights
-
-- 🏅 **AWS Community Builder — AI Engineering (2026)**
-- 🌍 Invited to **Global AI Developer Summit — Bali**
-- 🎤 **Mentor — Guinness World Record AI Hackathon (Google Cloud)**
-- 🤖 **Organizer — TensorFlow User Group Ghaziabad**
-- 💼 **Former Software Engineer Intern — Paytm**
+- 🤖 Building scalable **LLM-powered products**
+- 🧠 Designing **RAG pipelines & memory systems**
+- ⚙️ Creating **AI automation workflows**
+- 🌍 Leading developer communities in **AI & ML**
+- 🎤 Speaker, Mentor & Hackathon Contributor
+- ☁️ AWS Community Builder — AI Engineering (2026)
 
 ---
 
-## 🧪 Featured Project
+# 💼 Current Experience
 
-### ⚡ NovaFlow — Autonomous AI QA Agent
+## Software Analyst — OnGraph Technologies
+📍 Noida, India
 
-NovaFlow is an **AI-driven QA automation ecosystem** that converts **product requirements (PRDs) into executable UI test scripts** using LLMs.
-
-Key capabilities:
-- AI-driven test generation
-- Requirement → automation pipeline
-- Intelligent QA agents
-- Built for **Amazon Nova AI Hackathon**
+- Built AI chatbot systems for international consulting businesses
+- Developed **RAG-based knowledge assistants**
+- Designed multi-step **AI workflows using n8n / Dify / APIs**
+- Integrated LLMs into production workflows
+- Improved automation efficiency & reduced manual effort
 
 ---
 
-## 🛠 Tech Stack
+## Former Software Engineer Intern — Paytm
 
-### AI / LLM
-Python • LangChain • RAG • Prompt Engineering • LLM APIs
+- Built internal automation systems
+- Developed FastAPI services
+- Worked on scalable enterprise workflows
+- Gained exposure to high-scale tech systems
 
-### Automation
-n8n • Dify • Make.com • AI Agents
+---
+
+# 🚀 Featured Projects
+
+## ⚡ NovaFlow — Autonomous AI QA Agent
+
+AI ecosystem that transforms Product Requirement Documents into executable UI automation flows.
+
+### Key Features:
+- PRD → Test Cases using LLMs
+- Autonomous QA agents
+- Browser automation pipelines
+- Voice-enabled QA interaction
+- Built for Amazon Nova AI Hackathon
+
+🔗 Check repositories below
+
+---
+
+## 📞 AI Calling Assistant
+
+Real-time voice AI assistant powered by Gemini Live APIs.
+
+### Features:
+- Voice-to-Voice interaction
+- Function calling
+- Interrupt handling
+- Real-time AI conversations
+
+---
+
+# 🧠 Core Expertise
+
+### AI Engineering
+- LLM Applications
+- RAG Systems
+- Prompt Engineering
+- AI Agents
+- Multi-step Workflows
+- Memory Systems
+- Vector Databases
+
+### Backend & Automation
+- Python
+- FastAPI
+- REST APIs
+- Selenium
+- Workflow Automation
+- API Integrations
 
 ### Cloud
-AWS • Google Cloud • Azure
+- AWS
+- Google Cloud
+- Azure
 
 ### Tools
-Git • Docker • APIs • Selenium • Jira • Confluence
+- Docker
+- Git
+- Jira
+- Confluence
 
 ---
 
-## 🌍 Community Work
+# 🌍 Community Leadership
 
-### TensorFlow User Group Ghaziabad
+## TensorFlow User Group Ghaziabad
 
-- One of the **largest TensorFlow communities globally**
-- **10,000+ developers**
-- Organized **30+ AI/ML events**
-- Hosted workshops on **Gemini APIs, ML, AI systems, and cloud**
+- 👥 10,000+ developers
+- 🎯 Organized 30+ AI/ML events
+- 🤝 Supported by Google for Developers
+- 🎤 Hosted workshops on:
+  - Gemini APIs
+  - TensorFlow
+  - GenAI Systems
+  - Cloud & AI Tools
 
 ---
 
-## 📫 Connect With Me
+# 🏆 Achievements
+
+- 🏅 AWS Community Builder — AI Engineering (2026)
+- 🌍 Invited to Global AI Developer Summit — Bali
+- 🎤 Mentor at Guinness World Record AI Hackathon
+- 🤖 Organizer — TFUG Ghaziabad
+- 💼 Ex-Paytm
+
+---
+
+# 📫 Connect With Me
 
 <p>
-<a href="mailto:tripathiakaash@gmail.com"><img src="https://img.shields.io/badge/Email-tripathiakaash@gmail.com-blue?style=flat-square&logo=gmail"/></a>
-<a href="https://www.linkedin.com/in/akaash-t-bb9211212"><img src="https://img.shields.io/badge/LinkedIn-Akaash%20Tripathee-blue?style=flat-square&logo=linkedin"/></a>
-<a href="https://medium.com/@tripathiakaash"><img src="https://img.shields.io/badge/Medium-@tripathiakaash-black?style=flat-square&logo=medium"/></a>
-<a href="https://github.com/coder-irwin"><img src="https://img.shields.io/badge/GitHub-coder--irwin-gray?style=flat-square&logo=github"/></a>
+<a href="mailto:tripathiakaash@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"/></a>
+<a href="https://www.linkedin.com/in/akaash-t-bb9211212"><img src="https://img.shields.io/badge/LinkedIn-Akaash%20Tripathee-blue?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://github.com/coder-irwin"><img src="https://img.shields.io/badge/GitHub-coder--irwin-black?style=for-the-badge&logo=github"/></a>
+<a href="https://medium.com/@tripathiakaash"><img src="https://img.shields.io/badge/Medium-Blogs-black?style=for-the-badge&logo=medium"/></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=coder-irwin&show_icons=true&theme=transparent"/>
+<img src="https://github-readme-stats.vercel.app/api?username=coder-irwin&show_icons=true&theme=transparent&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-irwin"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-irwin&theme=transparent&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-irwin&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
 ---
 
-💡 **Mission:**  
-Building **AI systems that combine LLMs, automation, and real-world workflows**, while growing developer communities around AI.
+# 💡 Mission
+
+To build impactful AI systems that combine **LLMs, automation, and real-world workflows** — while empowering developers through communities, open knowledge, and innovation.
+
+---
