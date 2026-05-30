@@ -1,133 +1,284 @@
 # Hi there 👋, I’m Akaash Tripathee
 
-## 🚀 AI Engineer | GenAI Systems | RAG | AI Agents | Community Builder
+# 🚀 AI Systems Engineer | Real-Time Conversational AI | Agentic Infrastructure | Google AI Ecosystem
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/code.gif">
 
-I build **production-ready AI systems** powered by **LLMs, Retrieval-Augmented Generation (RAG), AI Agents, and Workflow Automation**.
+I build **production-grade AI systems** focused on **real-time conversational AI, multimodal systems, AI agents, streaming architectures, and intelligent orchestration pipelines**.
 
-Currently working as a **Software Analyst at OnGraph Technologies**, where I design and deploy intelligent AI solutions that automate real-world business operations.
+My work primarily revolves around:
 
-I’m also the organizer of **TensorFlow User Group Ghaziabad**, one of the fastest-growing AI developer communities, supported by **Google for Developers**.
+* Real-time Voice AI Systems
+* Gemini & Google AI Ecosystem
+* AI Agents & ADK
+* RAG & Memory Architectures
+* AI Workflow Orchestration
+* Multimodal AI Infrastructure
+* Agentic Automation Systems
+
+Currently working as an **AI/ML Engineer at Headfield Solutions Pvt. Ltd.**, where I design and deploy scalable AI-native systems for real-world business applications.
+
+I’m also the organizer of **TensorFlow User Group (TFUG) Ghaziabad**, one of the fastest-growing AI developer communities supported by **Google for Developers**, where I actively lead AI workshops, DevFest sessions, and developer education initiatives across the Google AI ecosystem.
 
 ---
 
 # 🔥 About Me
 
-- 🤖 Building scalable **LLM-powered products**
-- 🧠 Designing **RAG pipelines & memory systems**
-- ⚙️ Creating **AI automation workflows**
-- 🌍 Leading developer communities in **AI & ML**
-- 🎤 Speaker, Mentor & Hackathon Contributor
-- ☁️ AWS Community Builder — AI Engineering (2026)
+* 🤖 Building production-grade AI systems & conversational infrastructure
+* 🎙️ Developing low-latency Voice AI & streaming AI pipelines
+* ⚡ Designing real-time multimodal AI architectures using Gemini
+* 🧠 Engineering RAG systems, memory layers & AI orchestration pipelines
+* 🔄 Building AI Agents using Google ADK, MCP & Agentic workflows
+* ☁️ Deploying scalable AI systems on Google Cloud & Cloud Run
+* 🌍 Leading AI developer communities & technical workshops
+* 🎤 Speaker, Mentor, Hackathon Judge & Technical Educator
+* 🏅 AWS Community Builder — AI Engineering (2026)
 
 ---
 
-# 💼 Current Experience
+# 💼 Experience
 
-## Software Analyst — OnGraph Technologies
+## AI/ML Engineer — Headfield Solutions Pvt. Ltd.
+
 📍 Noida, India
 
-- Built AI chatbot systems for international consulting businesses
-- Developed **RAG-based knowledge assistants**
-- Designed multi-step **AI workflows using n8n / Dify / APIs**
-- Integrated LLMs into production workflows
-- Improved automation efficiency & reduced manual effort
+* Building production-grade Voice AI & AI Calling systems
+* Developing real-time conversational AI agents powered by Gemini Live APIs
+* Designing streaming AI architectures with interruption handling & orchestration pipelines
+* Building AI workflow automation systems using Dify, n8n & custom agent pipelines
+* Deploying scalable AI-native applications on cloud infrastructure
+* Engineering LLM-powered automation systems for enterprise use cases
 
 ---
 
 ## Former Software Engineer Intern — Paytm
 
-- Built internal automation systems
-- Developed FastAPI services
-- Worked on scalable enterprise workflows
-- Gained exposure to high-scale tech systems
+* Developed enterprise automation workflows
+* Built scalable backend services & FastAPI APIs
+* Worked with production-scale systems & integrations
+* Gained exposure to high-scale engineering systems
 
 ---
 
 # 🚀 Featured Projects
 
-## ⚡ NovaFlow — Autonomous AI QA Agent
+## 🎙️ Minimal Voice AI System
 
-AI ecosystem that transforms Product Requirement Documents into executable UI automation flows.
+Production-grade realtime conversational AI backend with:
 
-### Key Features:
-- PRD → Test Cases using LLMs
-- Autonomous QA agents
-- Browser automation pipelines
-- Voice-enabled QA interaction
-- Built for Amazon Nova AI Hackathon
+* Streaming STT → LLM → Live TTS pipeline
+* WebSocket-based low-latency orchestration
+* Interrupt handling / barge-in architecture
+* Hardware-aware optimization layer
+* Multi-layer conversational memory
+* Local LLM inference with Ollama
+* Kokoro & Piper TTS integration
+* Production deployment profiles
 
-🔗 Check repositories below
+### Tech Stack
+
+FastAPI • Whisper • Ollama • WebRTC VAD • WebSockets • Kokoro TTS • Docker
+
+🔗 https://github.com/coder-irwin/minimal-voice-ai-system
 
 ---
 
 ## 📞 AI Calling Assistant
 
-Real-time voice AI assistant powered by Gemini Live APIs.
+Real-time Voice-to-Voice AI Assistant powered by Gemini Live API.
 
-### Features:
-- Voice-to-Voice interaction
-- Function calling
-- Interrupt handling
-- Real-time AI conversations
+### Features
+
+* Native voice-to-voice conversations
+* Gemini Live WebSocket architecture
+* Function calling workflows
+* Interrupt-aware conversations
+* Streaming AI orchestration
+* Zero backend architecture
+* Real-time multimodal interactions
+
+### Tech Stack
+
+Gemini Live API • Web Audio API • WebSockets • JavaScript • Streaming AI
+
+🔗 https://github.com/coder-irwin/ai-calling-assistant
+
+---
+
+## ⚡ NovaVoice AI
+
+Production-grade Gemini Live AI Voice Agent platform.
+
+### Features
+
+* Google Calendar integration
+* Secure Python gateway
+* Streaming voice orchestration
+* Real-time AI scheduling assistant
+* Gemini Bidirectional WebSocket architecture
+
+🔗 https://github.com/coder-irwin/voice_ai_agents_using-Gemini_live_api
+
+---
+
+## 🧠 NovaFlow QA Agent
+
+Autonomous AI QA ecosystem transforming PRDs into executable UI automation pipelines using Amazon Nova models.
+
+### Features
+
+* Requirement intelligence pipelines
+* Autonomous UI test generation
+* AI-powered browser automation
+* Voice-enabled QA analysis
+* Multi-stage orchestration workflows
+
+🔗 https://github.com/coder-irwin/novaflow-qa-agent
+
+---
+
+## 🛡️ ShopWave Autonomous Resolution Engine
+
+Enterprise-grade AI support resolution engine with deterministic orchestration pipelines and financial safety guardrails.
+
+### Features
+
+* Autonomous support resolution
+* Policy & guardrail engine
+* AI workflow orchestration
+* Deterministic execution systems
+* Audit logging & escalation pipelines
+
+🔗 https://github.com/coder-irwin/hackathon2026-akaash-tripathee
 
 ---
 
 # 🧠 Core Expertise
 
-### AI Engineering
-- LLM Applications
-- RAG Systems
-- Prompt Engineering
-- AI Agents
-- Multi-step Workflows
-- Memory Systems
-- Vector Databases
+## AI Systems Engineering
 
-### Backend & Automation
-- Python
-- FastAPI
-- REST APIs
-- Selenium
-- Workflow Automation
-- API Integrations
-
-### Cloud
-- AWS
-- Google Cloud
-- Azure
-
-### Tools
-- Docker
-- Git
-- Jira
-- Confluence
+* Real-Time Conversational AI
+* Voice AI Systems
+* Streaming AI Pipelines
+* AI Orchestration Systems
+* AI Agents & ADK
+* Multimodal AI Systems
+* Agentic Workflows
+* AI Infrastructure Design
 
 ---
 
-# 🌍 Community Leadership
+## Generative AI
 
-## TensorFlow User Group Ghaziabad
+* Gemini APIs
+* Gemini Live API
+* Vertex AI
+* RAG Architectures
+* Vector Databases
+* Memory Systems
+* Prompt Engineering
+* Tool Calling Systems
+* MCP (Model Context Protocol)
 
-- 👥 10,000+ developers
-- 🎯 Organized 30+ AI/ML events
-- 🤝 Supported by Google for Developers
-- 🎤 Hosted workshops on:
-  - Gemini APIs
-  - TensorFlow
-  - GenAI Systems
-  - Cloud & AI Tools
+---
+
+## Backend & Infrastructure
+
+* Python
+* FastAPI
+* WebSockets
+* Async Architectures
+* REST APIs
+* Docker
+* Cloud Run
+* AI Deployment Systems
+
+---
+
+## Cloud & DevOps
+
+* Google Cloud Platform
+* AWS
+* Azure
+* Docker
+* GitHub Actions
+* CI/CD Pipelines
+
+---
+
+# 🌍 Community Leadership & Ecosystem Impact
+
+## TensorFlow User Group Ghaziabad (TFUG Ghaziabad)
+
+* 👥 10,000+ AI/ML developers
+* 🎯 Organized 30+ AI/ML community events
+* 🌍 Part of Google’s Global ML Ecosystem
+* 🤝 Supported by Google for Developers
+* 🎤 Delivered 70+ technical talks, workshops & sessions
+* 🧑‍🏫 Conducted hands-on workshops on:
+
+  * Gemini APIs
+  * Google ADK
+  * Vertex AI
+  * AI Agents
+  * Multimodal AI
+  * RAG Systems
+  * AI Infrastructure
+  * Conversational AI Systems
+
+---
+
+# 🎤 Speaking & Technical Contributions
+
+Delivered technical sessions, workshops & DevFest talks across:
+
+* DevFest
+* Build with AI
+* Google Developer Groups (GDGs)
+* TensorFlow User Groups (TFUGs)
+* AI Conferences
+* Hackathons
+* Google AI Labs
+* Cloud Community Events
+
+### Key Topics
+
+* Gemini & Gemini Live APIs
+* Real-Time Conversational AI
+* AI Agents & ADK
+* RAG Architectures
+* MCP & Agentic Workflows
+* Vertex AI Agent Builder
+* AI Infrastructure & Orchestration
+* AI Security & Guardrails
+* Streaming AI Systems
+* Multimodal AI Applications
 
 ---
 
 # 🏆 Achievements
 
-- 🏅 AWS Community Builder — AI Engineering (2026)
-- 🌍 Invited to Global AI Developer Summit — Bali
-- 🎤 Mentor at Guinness World Record AI Hackathon
-- 🤖 Organizer — TFUG Ghaziabad
-- 💼 Ex-Paytm
+* 🏅 AWS Community Builder — AI Engineering (2026)
+* 🌍 Invited to Global AI Developer Summit — Bali, Indonesia
+* 🎤 Mentor at Guinness World Record AI Hackathon
+* 🤖 Organizer — TFUG Ghaziabad
+* ☁️ Selected for AWS New Voices Cohort 2026
+* 🎯 Invited Speaker at multiple DevFests & Build with AI events
+* 🧠 Speaker on Gemini, ADK, AI Agents & Conversational AI Systems
+
+---
+
+# 📈 Current Focus
+
+Currently focused on:
+
+* Real-Time Voice AI Infrastructure
+* Gemini Ecosystem & Agentic AI
+* Conversational AI Systems
+* AI Orchestration Frameworks
+* Streaming Multimodal AI Pipelines
+* AI Workflow Automation
+* Production AI Systems Engineering
 
 ---
 
@@ -160,6 +311,14 @@ Real-time voice AI assistant powered by Gemini Live APIs.
 
 # 💡 Mission
 
-To build impactful AI systems that combine **LLMs, automation, and real-world workflows** — while empowering developers through communities, open knowledge, and innovation.
+To engineer impactful AI systems that combine:
+
+* real-time intelligence,
+* multimodal interaction,
+* AI orchestration,
+* workflow automation,
+* and production-grade conversational infrastructure
+
+while empowering developers through open knowledge, technical education, and community-driven innovation.
 
 ---
