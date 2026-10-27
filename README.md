@@ -1,30 +1,43 @@
 <div align="center">
 
-# Hi, I'm Akaash Tripathee 👋
+# Akaash Tripathee
 
-### AI Engineer · Real-Time Voice AI · Agents · RAG
+### AI Systems Engineer
+**LLM Applications · RAG · Document AI · Conversational & Voice AI · Agentic Workflows**
 
-*I build AI systems that talk, act, and ship to production.*
+*Production AI that is accurate, auditable and fast, from first prototype to deployment.*
 
-<a href="mailto:tripathiakaash@gmail.com"><img src="https://img.shields.io/badge/Hire%20me-tripathiakaash%40gmail.com-2ea44f?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:tripathiakaash@gmail.com"><img src="https://img.shields.io/badge/Email-tripathiakaash%40gmail.com-2ea44f?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/akaash-t-bb9211212"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://medium.com/@tripathiakaash"><img src="https://img.shields.io/badge/Medium-Read-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://medium.com/@tripathiakaash"><img src="https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
 
-📍 Noida, India &nbsp;·&nbsp; 🟢 **Open to AI / GenAI engineering roles** (full-time, contract, remote)
+📍 Delhi NCR, India &nbsp;·&nbsp; 🟢 **Open to AI / GenAI Engineer roles** (full-time, contract, remote)
 
 </div>
 
 ---
 
-## ⚡ 30-second summary
+## 👤 Profile
 
-| | |
-|---|---|
-| **What I do** | Build production **voice AI**, **agentic workflows**, **RAG** and **OCR / document-intelligence** systems with Python and FastAPI |
-| **Proof** | 95% domain retrieval precision on a RAG system · OCR pipeline lifted 78% → 87% accuracy over 9,271 pages · 500+ AI-agent evaluation tasks authored |
-| **Strengths** | Low-latency streaming (STT → LLM → TTS), barge-in, tool calling, guardrails, structured-output validation, audit trails |
-| **Community** | Lead Organizer, **TFUG Ghaziabad** (9,000+ members), recognized by Google for Developers |
-| **Also** | ICPC Regionalist · AWS Machine Learning Summer School Finalist |
+AI Systems Engineer building production LLM applications: RAG pipelines, agentic workflows, real-time voice agents and OCR / document intelligence. Strong in Python and FastAPI, with a focus on **guardrails, structured-output validation and production reliability**. Previously at OnGraph Technologies, Head-Field Solutions and Paytm; currently delivering AI systems as an independent contractor.
+
+## 🎯 Areas of expertise
+
+| Domain | What I build | Proof points |
+|---|---|---|
+| **🔎 RAG & Knowledge Systems** | Enterprise retrieval pipelines on vector databases with concurrent search, grounding and citation | **95%** domain-specific retrieval precision · Pinecone, Weaviate, pgvector |
+| **🧠 LLM Applications** | Multi-model orchestration (OpenAI, Gemini, Amazon Nova), deterministic routing, tool calling, prompt engineering | Production FastAPI backends for low-latency LLM interoperability |
+| **📄 Document AI & OCR** | Offline OCR → extraction → validation pipelines for handwritten and scanned documents | **78% → 87%** benchmark accuracy across **9,271 pages**, zero silent errors |
+| **💬 Conversational & Voice AI** | Real-time voice-to-voice agents with streaming STT → LLM → TTS and barge-in handling | Gemini Live, WebSockets, Telnyx, Ollama · repos with **80+ stars** |
+| **🤖 Agentic AI & Automation** | Multi-stage agents with guardrails, audit trails and human handoffs; Dify and n8n workflows into CRM and knowledge bases | Autonomous resolution agent; PRD-to-QA pipeline cutting test creation effort by **60%** |
+| **✅ AI Evaluation & Reliability** | Benchmarks, reference solutions, test harnesses, structured-output validation | **500+** agent-evaluation tasks authored (Handshake & Turing) |
+| **☁️ Backend & Deployment** | FastAPI services, Docker, Kubernetes, CI/CD, system design | Containerized, scaled services in production |
+
+## 📈 Impact at a glance
+
+| 95% | 87% | 9,271 | 500+ | 9,000+ |
+|:---:|:---:|:---:|:---:|:---:|
+| RAG retrieval precision | OCR benchmark accuracy | pages processed | AI evaluation tasks authored | TFUG community members |
 
 ---
 
