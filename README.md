@@ -30,7 +30,7 @@ Delhi NCR, India  |  **Open to AI / GenAI Engineer roles** (full-time, contract,
 
 ## Profile
 
-AI Systems Engineer building production LLM applications: RAG pipelines, agentic workflows, real-time voice agents and OCR / document intelligence. Strong in Python and FastAPI, with a focus on **guardrails, structured-output validation and production reliability**. Previously at OnGraph Technologies, Head-Field Solutions and Paytm; currently delivering AI systems as an independent contractor.
+AI Systems Engineer building production LLM applications: RAG pipelines, agentic workflows, real-time voice agents and OCR / document intelligence. Strong in Python and FastAPI, with a focus on **guardrails, structured-output validation and production reliability**. Previously at OnGraph Technologies, Head-Field Solutions and Paytm; currently working as a freelance AI Engineer delivering systems for clients.
 
 <div align="center">
 
@@ -110,7 +110,7 @@ Available for remote contract and freelance engagements. Click a service to emai
 <sub>Click a role to expand or collapse it.</sub>
 
 <details open>
-<summary><b>Independent Contractor, Contract AI Engineer</b> &nbsp;|&nbsp; Jun 2026 to Present</summary>
+<summary><b>AI Engineer (Freelance)</b> &nbsp;|&nbsp; Jun 2026 to Present</summary>
 <br/>
 
 - Built an offline 3-stage OCR, extraction and validation pipeline (RapidOCR, FastAPI, multi-arch Docker) that digitizes handwritten timesheets into Excel: **78% to 87% benchmark accuracy across 9,271 pages, zero silent errors**.
