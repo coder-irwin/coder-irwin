@@ -118,8 +118,6 @@
 
 <img src="https://streak-stats.demolab.com/?user=coder-irwin&theme=radical&hide_border=true"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=coder-irwin&theme=react-dark&hide_border=true"/>
-
 </div>
 
 ---
