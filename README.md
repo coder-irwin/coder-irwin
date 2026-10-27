@@ -15,13 +15,14 @@ Delhi NCR, India  |  **Open to AI / GenAI Engineer roles** (full-time, contract,
 <br/>
 
 <a href="#profile"><img src="https://img.shields.io/badge/Profile-1F2937?style=flat-square"/></a>
-<a href="#areas-of-expertise"><img src="https://img.shields.io/badge/Expertise-1F2937?style=flat-square"/></a>
+<a href="#services"><img src="https://img.shields.io/badge/Services-1F2937?style=flat-square"/></a>
+<a href="#case-studies"><img src="https://img.shields.io/badge/Case%20Studies-1F2937?style=flat-square"/></a>
 <a href="#featured-projects"><img src="https://img.shields.io/badge/Projects-1F2937?style=flat-square"/></a>
 <a href="#experience"><img src="https://img.shields.io/badge/Experience-1F2937?style=flat-square"/></a>
 <a href="#technical-skills"><img src="https://img.shields.io/badge/Skills-1F2937?style=flat-square"/></a>
 <a href="#community-and-achievements"><img src="https://img.shields.io/badge/Community-1F2937?style=flat-square"/></a>
 <a href="#github-statistics"><img src="https://img.shields.io/badge/Statistics-1F2937?style=flat-square"/></a>
-<a href="#contact"><img src="https://img.shields.io/badge/Contact-2563EB?style=flat-square"/></a>
+<a href="#work-with-me"><img src="https://img.shields.io/badge/Work%20With%20Me-2563EB?style=flat-square"/></a>
 
 </div>
 
@@ -41,17 +42,52 @@ AI Systems Engineer building production LLM applications: RAG pipelines, agentic
 
 ---
 
-## Areas of Expertise
+## Services
 
-| Domain | What I build | Proof points |
+Available for remote contract and freelance engagements. Click a service to email me about it.
+
+| Service | What you get | Evidence |
 |---|---|---|
-| **RAG and Knowledge Systems** | Enterprise retrieval pipelines on vector databases with concurrent search, grounding and citation | **95%** domain-specific retrieval precision; Pinecone, Weaviate, pgvector |
-| **LLM Applications** | Multi-model orchestration (OpenAI, Gemini, Amazon Nova), deterministic routing, tool calling, prompt engineering | Production FastAPI backends for low-latency LLM interoperability |
-| **Document AI and OCR** | Offline OCR, extraction and validation pipelines for handwritten and scanned documents | **78% to 87%** benchmark accuracy across **9,271 pages**, zero silent errors |
-| **Conversational and Voice AI** | Real-time voice-to-voice agents with streaming STT, LLM and TTS, and barge-in handling | Gemini Live, WebSockets, Telnyx, Ollama; repos with **80+ stars** |
-| **Agentic AI and Automation** | Multi-stage agents with guardrails, audit trails and human handoffs; Dify and n8n workflows into CRM and knowledge bases | Autonomous resolution agent; PRD-to-QA pipeline cutting test creation effort by **60%** |
-| **AI Evaluation and Reliability** | Benchmarks, reference solutions, test harnesses, structured-output validation | **500+** agent-evaluation tasks authored (Handshake and Turing) |
-| **Backend and Deployment** | FastAPI services, Docker, Kubernetes, CI/CD, system design | Containerized, scaled services in production |
+| **[RAG and Knowledge Assistants](mailto:tripathiakaash@gmail.com?subject=Project%20enquiry%3A%20RAG%20and%20Knowledge%20Assistant)** | Retrieval pipelines on your documents and data: vector search, grounding, citations | **95%** domain-specific retrieval precision in production |
+| **[Document AI and OCR](mailto:tripathiakaash@gmail.com?subject=Project%20enquiry%3A%20Document%20AI%20and%20OCR)** | Extraction and validation for scanned or handwritten documents, including fully offline and on-premise setups | **78% to 87%** accuracy across **9,271 pages**, zero silent errors |
+| **[Voice and Conversational AI](mailto:tripathiakaash@gmail.com?subject=Project%20enquiry%3A%20Voice%20and%20Conversational%20AI)** | Real-time voice agents and calling assistants with interruption handling and tool calling | Gemini Live, Telnyx, Ollama; public repos with **80+ stars** |
+| **[LLM Apps and Agentic Workflows](mailto:tripathiakaash@gmail.com?subject=Project%20enquiry%3A%20LLM%20Application%20or%20Agent)** | Multi-step agents with guardrails and audit trails; Dify and n8n automation into CRM and knowledge bases | PRD-to-QA pipeline cut test creation effort by **60%** |
+| **[AI Evaluation and Benchmarks](mailto:tripathiakaash@gmail.com?subject=Project%20enquiry%3A%20AI%20Evaluation)** | Test harnesses, reference solutions and structured-output validation to measure model and agent quality | **500+** agent-evaluation tasks authored |
+| **[Backend and Deployment](mailto:tripathiakaash@gmail.com?subject=Project%20enquiry%3A%20Backend%20and%20Deployment)** | FastAPI services, Docker, Kubernetes, CI/CD | Containerized services scaled in production |
+
+---
+
+## Case Studies
+
+<details open>
+<summary><b>Handwritten timesheets to Excel, fully offline</b> &nbsp;|&nbsp; Document AI</summary>
+<br/>
+
+- **Problem:** handwritten site timesheets had to be digitized for payroll with no cloud dependency and no silent mistakes.
+- **Solution:** 3-stage OCR, extraction and validation pipeline (RapidOCR, FastAPI, multi-arch Docker) with benchmarking against Tesseract, EasyOCR and Qwen3-VL.
+- **Result:** benchmark accuracy **78% to 87%** across **9,271 pages**, with zero silent errors. Part of an HRMS serving **~450 workers across 10+ sites**.
+
+</details>
+
+<details>
+<summary><b>Enterprise RAG at 95% retrieval precision</b> &nbsp;|&nbsp; RAG and LLM Applications</summary>
+<br/>
+
+- **Problem:** domain-specific questions needed accurate, low-latency answers from enterprise knowledge.
+- **Solution:** RAG pipelines on vector databases with concurrent search, behind a stateful microservice conversational engine, with multi-model routing (OpenAI, Amazon Nova).
+- **Result:** **95%** domain-specific retrieval precision (OnGraph Technologies).
+
+</details>
+
+<details>
+<summary><b>Real-time voice agent with barge-in</b> &nbsp;|&nbsp; Conversational AI</summary>
+<br/>
+
+- **Problem:** voice assistants feel slow and cannot be interrupted.
+- **Solution:** bidirectional WebSocket streaming with an async audio pipeline, interrupt handling, concurrent sessions and tool calling.
+- **Result:** sub-second conversational latency. Open source: [ai-calling-assistant](https://github.com/coder-irwin/ai-calling-assistant) and [NovaVoice AI](https://github.com/coder-irwin/voice_ai_agents_using-Gemini_live_api).
+
+</details>
 
 ---
 
@@ -146,20 +182,6 @@ AI Systems Engineer building production LLM applications: RAG pipelines, agentic
 | **Backend and Data** | Python, FastAPI, Flask, REST APIs, SQL, PostgreSQL, Pinecone, Weaviate, pgvector, vector embeddings |
 | **Infrastructure** | Docker, Kubernetes, Git, CI/CD, Google Cloud and Vertex AI, AWS, system design |
 
-![Python](https://img.shields.io/badge/Python-0B1F3A?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0B1F3A?style=flat-square&logo=fastapi&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0B1F3A?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-0B1F3A?style=flat-square&logo=react&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1F3A?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0B1F3A?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0B1F3A?style=flat-square&logo=kubernetes&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-2563EB?style=flat-square&logo=googlegemini&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-2563EB?style=flat-square&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-2563EB?style=flat-square&logo=amazonwebservices&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-2563EB?style=flat-square&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-2563EB?style=flat-square&logo=ollama&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-2563EB?style=flat-square&logo=n8n&logoColor=white)
-
 </details>
 
 ---
@@ -186,13 +208,18 @@ AI Systems Engineer building production LLM applications: RAG pipelines, agentic
 
 ---
 
-## Contact
+## Work With Me
 
 <div align="center">
 
-**Open to AI / GenAI Engineer roles and contract engagements.**
+**Open to remote contract, freelance and full-time AI / GenAI engineering roles.**
 
-[tripathiakaash@gmail.com](mailto:tripathiakaash@gmail.com)  |  [LinkedIn](https://www.linkedin.com/in/akaash-t-bb9211212)  |  [Medium](https://medium.com/@tripathiakaash)
+How an engagement typically runs: **1.** short call to scope the problem and success metric  **2.** working prototype measured on your data  **3.** production hardening and deployment  **4.** handover with documentation.
+
+<a href="mailto:tripathiakaash@gmail.com?subject=Project%20enquiry"><img src="https://img.shields.io/badge/Start%20a%20project-Email%20me-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/akaash-t-bb9211212"><img src="https://img.shields.io/badge/LinkedIn-Message-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+[tripathiakaash@gmail.com](mailto:tripathiakaash@gmail.com)  |  [Medium](https://medium.com/@tripathiakaash)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:2563EB&height=90&section=footer" width="100%" alt=""/>
 
