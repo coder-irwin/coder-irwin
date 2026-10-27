@@ -1,324 +1,133 @@
-# Hi there 👋, I’m Akaash Tripathee
+<div align="center">
 
-# 🚀 AI Systems Engineer | Real-Time Conversational AI | Agentic Infrastructure | Google AI Ecosystem
+# Hi, I'm Akaash Tripathee 👋
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/code.gif">
+### AI Engineer · Real-Time Voice AI · Agents · RAG
 
-I build **production-grade AI systems** focused on **real-time conversational AI, multimodal systems, AI agents, streaming architectures, and intelligent orchestration pipelines**.
+*I build AI systems that talk, act, and ship to production.*
 
-My work primarily revolves around:
+<a href="mailto:tripathiakaash@gmail.com"><img src="https://img.shields.io/badge/Hire%20me-tripathiakaash%40gmail.com-2ea44f?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/akaash-t-bb9211212"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://medium.com/@tripathiakaash"><img src="https://img.shields.io/badge/Medium-Read-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
 
-* Real-time Voice AI Systems
-* Gemini & Google AI Ecosystem
-* AI Agents & ADK
-* RAG & Memory Architectures
-* AI Workflow Orchestration
-* Multimodal AI Infrastructure
-* Agentic Automation Systems
+📍 Noida, India &nbsp;·&nbsp; 🟢 **Open to AI / GenAI engineering roles** (full-time, contract, remote)
 
-Currently working as an **AI/ML Engineer at Headfield Solutions Pvt. Ltd.**, where I design and deploy scalable AI-native systems for real-world business applications.
-
-I’m also the organizer of **TensorFlow User Group (TFUG) Ghaziabad**, one of the fastest-growing AI developer communities supported by **Google for Developers**, where I actively lead AI workshops, DevFest sessions, and developer education initiatives across the Google AI ecosystem.
+</div>
 
 ---
 
-# 🔥 About Me
+## ⚡ 30-second summary
 
-* 🤖 Building production-grade AI systems & conversational infrastructure
-* 🎙️ Developing low-latency Voice AI & streaming AI pipelines
-* ⚡ Designing real-time multimodal AI architectures using Gemini
-* 🧠 Engineering RAG systems, memory layers & AI orchestration pipelines
-* 🔄 Building AI Agents using Google ADK, MCP & Agentic workflows
-* ☁️ Deploying scalable AI systems on Google Cloud & Cloud Run
-* 🌍 Leading AI developer communities & technical workshops
-* 🎤 Speaker, Mentor, Hackathon Judge & Technical Educator
-* 🏅 AWS Community Builder — AI Engineering (2026)
+| | |
+|---|---|
+| **What I do** | Build production **voice AI**, **agentic workflows**, **RAG** and **OCR / document-intelligence** systems with Python and FastAPI |
+| **Proof** | 95% domain retrieval precision on a RAG system · OCR pipeline lifted 78% → 87% accuracy over 9,271 pages · 500+ AI-agent evaluation tasks authored |
+| **Strengths** | Low-latency streaming (STT → LLM → TTS), barge-in, tool calling, guardrails, structured-output validation, audit trails |
+| **Community** | Lead Organizer, **TFUG Ghaziabad** (9,000+ members), recognized by Google for Developers |
+| **Also** | ICPC Regionalist · AWS Machine Learning Summer School Finalist |
 
 ---
 
-# 💼 Experience
+## 🚀 Featured projects
 
-## AI/ML Engineer — Headfield Solutions Pvt. Ltd.
-
-📍 Noida, India
-
-* Building production-grade Voice AI & AI Calling systems
-* Developing real-time conversational AI agents powered by Gemini Live APIs
-* Designing streaming AI architectures with interruption handling & orchestration pipelines
-* Building AI workflow automation systems using Dify, n8n & custom agent pipelines
-* Deploying scalable AI-native applications on cloud infrastructure
-* Engineering LLM-powered automation systems for enterprise use cases
-
----
-
-## Former Software Engineer Intern — Paytm
-
-* Developed enterprise automation workflows
-* Built scalable backend services & FastAPI APIs
-* Worked with production-scale systems & integrations
-* Gained exposure to high-scale engineering systems
+| Project | What it is | Stack |
+|---|---|---|
+| [🎙️ **voice-agent-workshop**](https://github.com/coder-irwin/voice-agent-workshop) ⭐ 16 | A fully local voice agent that hears you, talks back **and acts** (opens YouTube, searches, scrolls). No API keys, no cloud, no cost. | Whisper · Ollama · Kokoro · Playwright |
+| [📞 **voice_ai_agents_using-Gemini_live_api**](https://github.com/coder-irwin/voice_ai_agents_using-Gemini_live_api) ⭐ 47 | NovaVoice AI: production-style Gemini Live voice agent with Google Calendar scheduling and a secure Python gateway. | Gemini Live · FastAPI · WebSockets |
+| [☎️ **ai-calling-assistant**](https://github.com/coder-irwin/ai-calling-assistant) ⭐ 18 | Real-time voice-to-voice calling assistant: function calling, interrupt handling, zero backend. | Gemini Live API · Web Audio |
+| [🧪 **novaflow-qa-agent**](https://github.com/coder-irwin/novaflow-qa-agent) ⭐ 3 | Turns a PRD into executable UI tests, runs them, and lets you talk to the report. Amazon Nova Hackathon 2026. | Amazon Nova · FastAPI · React |
+| [🚗 **trueprice-cars24**](https://github.com/coder-irwin/trueprice-cars24) | Variant-aware, confidence-scored used-car price estimator that closes the estimate-to-final-price gap. | Python · open-source MVP |
+| [🛒 **echosphere-ps5-voice-support**](https://github.com/coder-irwin/echosphere-ps5-voice-support) | Real-time multilingual voice support for e-commerce. Agora Conversational AI Hackathon. | Python · Agora |
+| [🎧 **minimal-voice-ai-system**](https://github.com/coder-irwin/minimal-voice-ai-system) | Streaming STT → LLM → TTS backend with barge-in, memory layers and hardware-aware tuning. | FastAPI · Whisper · Ollama · Docker |
 
 ---
 
-# 🚀 Featured Projects
+## 💼 Experience
 
-## 🎙️ Minimal Voice AI System
+**Independent Contractor — Contract AI Engineer** · *Jun 2026 – Present*
+- Built an offline 3-stage OCR → extraction → validation pipeline (RapidOCR, FastAPI, multi-arch Docker) that digitizes handwritten timesheets into Excel: **78% → 87% benchmark accuracy across 9,271 pages, zero silent errors**.
+- Architected an open-source HRMS for GCC construction operations: OCR digitization and payroll for **~450 workers across 10+ sites**, validated against **49 requirements** by automated test suites.
+- Built a fully local, Dockerized OCR solution for certificate extraction and validation, plus an **OCR engine benchmark lab** (RapidOCR, Tesseract, EasyOCR, Qwen3-VL).
+- Delivered a multi-agent document-processing platform (Prisma/PostgreSQL) and other client backends.
 
-Production-grade realtime conversational AI backend with:
+**AI Trainer (freelance)** — Handshake & Turing · *May 2025 – Present*
+- Authored **500+ technical evaluation tasks** in Harbor-based environments and Terminal-Bench 2.0 setups: terminal workflows, coding tasks and multi-step AI-agent evaluations.
+- Built reproducible task environments, reference solutions and tests to measure agent correctness.
+- Reviewed hundreds of AI-generated and user-submitted tasks for technical accuracy, instruction adherence and benchmark compliance.
 
-* Streaming STT → LLM → Live TTS pipeline
-* WebSocket-based low-latency orchestration
-* Interrupt handling / barge-in architecture
-* Hardware-aware optimization layer
-* Multi-layer conversational memory
-* Local LLM inference with Ollama
-* Kokoro & Piper TTS integration
-* Production deployment profiles
+**AI/ML Engineer** — Head-Field Solutions · Noida · *May 2026 – Jun 2026*
+- Built a production voice-to-voice agentic calling assistant with Ollama local LLMs, Telnyx and Claude Code.
 
-### Tech Stack
+**AI Systems Engineer** — OnGraph Technologies · *Aug 2025 – May 2026*
+- Architected a low-latency conversational AI engine on stateful microservices; built enterprise RAG pipelines (vector DBs, concurrent search) at **95% domain-specific retrieval precision**.
+- Orchestrated multi-model workflows (OpenAI, Amazon Nova) with deterministic routing; built async agentic workflows in Dify and n8n connected to CRM and knowledge bases.
+- Built FastAPI backends for low-latency LLM interoperability; shipped with Docker and Kubernetes.
 
-FastAPI • Whisper • Ollama • WebRTC VAD • WebSockets • Kokoro TTS • Docker
+**Software Engineer Intern** — Paytm · *Jan 2025 – Aug 2025*
+- Built FastAPI backend services for high-throughput IVR systems.
 
-🔗 https://github.com/coder-irwin/minimal-voice-ai-system
+**Machine Learning Intern** — Energy Venture · *Jul 2024 – Oct 2024*
+- Built IoT sensor data pipelines and computer-vision models for automated industrial inspection.
 
----
+**Community Growth Manager** — Where U Elevate · Noida · *Oct 2023 – Apr 2024*
+- Ran market research and engagement work that doubled platform user adoption.
 
-## 📞 AI Calling Assistant
-
-Real-time Voice-to-Voice AI Assistant powered by Gemini Live API.
-
-### Features
-
-* Native voice-to-voice conversations
-* Gemini Live WebSocket architecture
-* Function calling workflows
-* Interrupt-aware conversations
-* Streaming AI orchestration
-* Zero backend architecture
-* Real-time multimodal interactions
-
-### Tech Stack
-
-Gemini Live API • Web Audio API • WebSockets • JavaScript • Streaming AI
-
-🔗 https://github.com/coder-irwin/ai-calling-assistant
+🎓 **B.Tech, Computer Science (AI & ML)**, NITRA Technical Campus, Ghaziabad · 2021 – 2025
 
 ---
 
-## ⚡ NovaVoice AI
+## 🧰 Tech stack
 
-Production-grade Gemini Live AI Voice Agent platform.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### Features
+![Gemini](https://img.shields.io/badge/Gemini%20%26%20Live%20API-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20·%20Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20·%20Bedrock%20Nova-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP%20·%20Google%20ADK-6E40C9?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangChain%20·%20LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n%20·%20Dify-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
-* Google Calendar integration
-* Secure Python gateway
-* Streaming voice orchestration
-* Real-time AI scheduling assistant
-* Gemini Bidirectional WebSocket architecture
-
-🔗 https://github.com/coder-irwin/voice_ai_agents_using-Gemini_live_api
-
----
-
-## 🧠 NovaFlow QA Agent
-
-Autonomous AI QA ecosystem transforming PRDs into executable UI automation pipelines using Amazon Nova models.
-
-### Features
-
-* Requirement intelligence pipelines
-* Autonomous UI test generation
-* AI-powered browser automation
-* Voice-enabled QA analysis
-* Multi-stage orchestration workflows
-
-🔗 https://github.com/coder-irwin/novaflow-qa-agent
+**Specialities:** real-time voice AI · agents and tool calling · RAG · OCR and document pipelines · LLM guardrails and evaluation · AI-agent benchmarking
 
 ---
 
-## 🛡️ ShopWave Autonomous Resolution Engine
+## 🌍 Community & achievements
 
-Enterprise-grade AI support resolution engine with deterministic orchestration pipelines and financial safety guardrails.
-
-### Features
-
-* Autonomous support resolution
-* Policy & guardrail engine
-* AI workflow orchestration
-* Deterministic execution systems
-* Audit logging & escalation pipelines
-
-🔗 https://github.com/coder-irwin/hackathon2026-akaash-tripathee
+- **Lead Organizer, TFUG Ghaziabad**: 9,000+ members, recognized by Google for Developers for community impact
+- Speaker and workshop host on Gemini, ADK, Vertex AI, agents and RAG
+- **AWS Community Builder**, AI Engineering (2026) · **AWS Machine Learning Summer School Finalist**
+- **ICPC Regionalist** (2023–24)
 
 ---
 
-# 🧠 Core Expertise
+## 📊 GitHub stats
 
-## AI Systems Engineering
+<div align="center">
 
-* Real-Time Conversational AI
-* Voice AI Systems
-* Streaming AI Pipelines
-* AI Orchestration Systems
-* AI Agents & ADK
-* Multimodal AI Systems
-* Agentic Workflows
-* AI Infrastructure Design
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=coder-irwin&show_icons=true&hide_border=true&theme=radical&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-irwin&layout=compact&hide_border=true&theme=radical&langs_count=6"/>
 
----
+<img src="https://streak-stats.demolab.com/?user=coder-irwin&theme=radical&hide_border=true"/>
 
-## Generative AI
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=coder-irwin&theme=react-dark&hide_border=true"/>
 
-* Gemini APIs
-* Gemini Live API
-* Vertex AI
-* RAG Architectures
-* Vector Databases
-* Memory Systems
-* Prompt Engineering
-* Tool Calling Systems
-* MCP (Model Context Protocol)
+</div>
 
 ---
 
-## Backend & Infrastructure
+<div align="center">
 
-* Python
-* FastAPI
-* WebSockets
-* Async Architectures
-* REST APIs
-* Docker
-* Cloud Run
-* AI Deployment Systems
+### 📫 Have an AI problem that needs shipping?
 
----
+**[tripathiakaash@gmail.com](mailto:tripathiakaash@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/akaash-t-bb9211212)**
 
-## Cloud & DevOps
-
-* Google Cloud Platform
-* AWS
-* Azure
-* Docker
-* GitHub Actions
-* CI/CD Pipelines
-
----
-
-# 🌍 Community Leadership & Ecosystem Impact
-
-## TensorFlow User Group Ghaziabad (TFUG Ghaziabad)
-
-* 👥 10,000+ AI/ML developers
-* 🎯 Organized 30+ AI/ML community events
-* 🌍 Part of Google’s Global ML Ecosystem
-* 🤝 Supported by Google for Developers
-* 🎤 Delivered 70+ technical talks, workshops & sessions
-* 🧑‍🏫 Conducted hands-on workshops on:
-
-  * Gemini APIs
-  * Google ADK
-  * Vertex AI
-  * AI Agents
-  * Multimodal AI
-  * RAG Systems
-  * AI Infrastructure
-  * Conversational AI Systems
-
----
-
-# 🎤 Speaking & Technical Contributions
-
-Delivered technical sessions, workshops & DevFest talks across:
-
-* DevFest
-* Build with AI
-* Google Developer Groups (GDGs)
-* TensorFlow User Groups (TFUGs)
-* AI Conferences
-* Hackathons
-* Google AI Labs
-* Cloud Community Events
-
-### Key Topics
-
-* Gemini & Gemini Live APIs
-* Real-Time Conversational AI
-* AI Agents & ADK
-* RAG Architectures
-* MCP & Agentic Workflows
-* Vertex AI Agent Builder
-* AI Infrastructure & Orchestration
-* AI Security & Guardrails
-* Streaming AI Systems
-* Multimodal AI Applications
-
----
-
-# 🏆 Achievements
-
-* 🏅 AWS Community Builder — AI Engineering (2026)
-* 🌍 Invited to Global AI Developer Summit — Bali, Indonesia
-* 🎤 Mentor at Guinness World Record AI Hackathon
-* 🤖 Organizer — TFUG Ghaziabad
-* ☁️ Selected for AWS New Voices Cohort 2026
-* 🎯 Invited Speaker at multiple DevFests & Build with AI events
-* 🧠 Speaker on Gemini, ADK, AI Agents & Conversational AI Systems
-
----
-
-# 📈 Current Focus
-
-Currently focused on:
-
-* Real-Time Voice AI Infrastructure
-* Gemini Ecosystem & Agentic AI
-* Conversational AI Systems
-* AI Orchestration Frameworks
-* Streaming Multimodal AI Pipelines
-* AI Workflow Automation
-* Production AI Systems Engineering
-
----
-
-# 📫 Connect With Me
-
-<p>
-<a href="mailto:tripathiakaash@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"/></a>
-<a href="https://www.linkedin.com/in/akaash-t-bb9211212"><img src="https://img.shields.io/badge/LinkedIn-Akaash%20Tripathee-blue?style=for-the-badge&logo=linkedin"/></a>
-<a href="https://github.com/coder-irwin"><img src="https://img.shields.io/badge/GitHub-coder--irwin-black?style=for-the-badge&logo=github"/></a>
-<a href="https://medium.com/@tripathiakaash"><img src="https://img.shields.io/badge/Medium-Blogs-black?style=for-the-badge&logo=medium"/></a>
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=coder-irwin&show_icons=true&theme=transparent&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-irwin&theme=transparent&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-irwin&layout=compact&theme=transparent&hide_border=true"/>
-</p>
-
----
-
-# 💡 Mission
-
-To engineer impactful AI systems that combine:
-
-* real-time intelligence,
-* multimodal interaction,
-* AI orchestration,
-* workflow automation,
-* and production-grade conversational infrastructure
-
-while empowering developers through open knowledge, technical education, and community-driven innovation.
-
----
+</div>
